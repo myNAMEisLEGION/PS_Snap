@@ -1,0 +1,6 @@
+C:\Users\marci\source\repos\PS_UI_BDD_Tests2\PhotoSender_BBD_UI_Tests\obj\Debug\PhotoSender.AutomatedUITests.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\PS_UI_BDD_Tests2\PhotoSender_BBD_UI_Tests\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\marci\source\repos\PS_UI_BDD_Tests2\PhotoSender_BBD_UI_Tests\obj\Debug\PhotoSender.AutomatedUITests.csproj.ResolveComReference.cache
+C:\Users\marci\source\repos\PS_UI_BDD_Tests2\PhotoSender_BBD_UI_Tests\obj\Debug\PhotoSender.AutomatedUITests.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\PS_UI_BDD_Tests2\PhotoSender_BBD_UI_Tests\obj\Debug\PhotoSender_BBD_UI_Tests.dll
+C:\Users\marci\source\repos\PS_UI_BDD_Tests2\PhotoSender_BBD_UI_Tests\obj\Debug\PhotoSender_BBD_UI_Tests.pdb
